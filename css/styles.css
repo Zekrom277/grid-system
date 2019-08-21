@@ -1,0 +1,39 @@
+
+
+.col{
+    background-color: #eeeeee;
+    border: 3px solid gray;
+    height: 2.5em;
+    
+}
+
+.header{
+    height: 100px;
+    background-color: blue;
+    
+}
+
+.nav{
+    background-color: green;
+    
+}
+
+.content{
+    height: 150px;
+    background-color: red;
+}
+
+.aside{
+    height: 150px;
+    background-color: #00ffff
+}
+
+.promo{
+    height: 130px;
+    background-color: orange;
+
+}
+
+.footer{
+    background-color: black;
+}
